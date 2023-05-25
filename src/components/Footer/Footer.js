@@ -9,8 +9,8 @@ const Footer = () => {
         <li><a href="https://www.linkedin.com/in/shabab-rob-chowdhury-0b697318a">LinkedIn</a></li>
       </ul>
       <address>
-        Van Nuys, CA<br>
-        Phone: 818-384-2330<br>
+        Van Nuys, CA<br />
+        Phone: 818-384-2330<br />
         Email: chowdhuryshababrob@gmail.com
       </address>
     </footer>
