@@ -1,0 +1,41 @@
+h2{
+    text-align: center;
+}
+
+#selfie{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.project-item{
+    text-align: center;
+}
+
+.form-group{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+#submit{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.pdf{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.footer{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.unorderedList{
+    list-style: none;
+}
