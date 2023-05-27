@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shababs-REACT-Portfolio/static/css/main.7538bdcc.css",
+    "main.js": "/Shababs-REACT-Portfolio/static/js/main.caef51de.js",
+    "static/media/avatar.jpg": "/Shababs-REACT-Portfolio/static/media/avatar.0bb556984f93c5206b4f.jpg",
+    "static/media/resume.pdf": "/Shababs-REACT-Portfolio/static/media/resume.8eb9098a729e4a725912.pdf",
+    "index.html": "/Shababs-REACT-Portfolio/index.html",
+    "main.7538bdcc.css.map": "/Shababs-REACT-Portfolio/static/css/main.7538bdcc.css.map",
+    "main.caef51de.js.map": "/Shababs-REACT-Portfolio/static/js/main.caef51de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7538bdcc.css",
+    "static/js/main.caef51de.js"
+  ]
+}
