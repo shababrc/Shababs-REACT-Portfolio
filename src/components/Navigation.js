@@ -2,15 +2,7 @@ import React from 'react';
 
 function Navigation() {
   return (
-    // <nav>
-    //   <ul>
-    //     <li className="active">About Me</li>
-    //     <li>Portfolio</li>
-    //     <li>Contact</li>
-    //     <li>Resume</li>
-    //   </ul>
-    // </nav>
-   <nav className="navbar navbar-expand-lg navbar-light bg-light">
+   <nav id="navbar" className="navbar navbar-expand-lg navbar-light bg-light">
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon" />
   </button>

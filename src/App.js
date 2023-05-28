@@ -13,12 +13,30 @@ function App() {
       <Header />
       <Navigation />
       <About />
+      <br />
+      <br />
+      <br />
+      <br />
       <Portfolio />
+      <br />
+      <br />
+      <br />
+      <br />
       <Contact />
+      <br />
+      <br />
+      <br />
+      <br />
       <Resume />
+      <br />
+      <br />
+      <br />
+      <br />
       <Footer />
     </div>
   );
 }
 
 export default App;
+
+
