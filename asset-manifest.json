@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Shababs-REACT-Portfolio/static/css/main.7538bdcc.css",
-    "main.js": "/Shababs-REACT-Portfolio/static/js/main.caef51de.js",
+    "main.css": "/Shababs-REACT-Portfolio/static/css/main.a4dfeea8.css",
+    "main.js": "/Shababs-REACT-Portfolio/static/js/main.2036c12e.js",
     "static/media/avatar.jpg": "/Shababs-REACT-Portfolio/static/media/avatar.0bb556984f93c5206b4f.jpg",
     "static/media/resume.pdf": "/Shababs-REACT-Portfolio/static/media/resume.8eb9098a729e4a725912.pdf",
     "index.html": "/Shababs-REACT-Portfolio/index.html",
-    "main.7538bdcc.css.map": "/Shababs-REACT-Portfolio/static/css/main.7538bdcc.css.map",
-    "main.caef51de.js.map": "/Shababs-REACT-Portfolio/static/js/main.caef51de.js.map"
+    "main.a4dfeea8.css.map": "/Shababs-REACT-Portfolio/static/css/main.a4dfeea8.css.map",
+    "main.2036c12e.js.map": "/Shababs-REACT-Portfolio/static/js/main.2036c12e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7538bdcc.css",
-    "static/js/main.caef51de.js"
+    "static/css/main.a4dfeea8.css",
+    "static/js/main.2036c12e.js"
   ]
 }
